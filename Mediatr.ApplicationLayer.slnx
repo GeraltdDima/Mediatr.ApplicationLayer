@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Mediatr.ApplicationLayer.Application/Mediatr.ApplicationLayer.Application.csproj" />
+  <Project Path="Mediatr.ApplicationLayer.Core/Mediatr.ApplicationLayer.Core.csproj" />
+  <Project Path="Mediatr.ApplicationLayer.Domain/Mediatr.ApplicationLayer.Domain.csproj" />
+  <Project Path="Mediatr.ApplicationLayer.Infrastructure/Mediatr.ApplicationLayer.Infrastructure.csproj" />
+  <Project Path="Mediatr.ApplicationLayer.Observability/Mediatr.ApplicationLayer.Observability.csproj" />
+</Solution>

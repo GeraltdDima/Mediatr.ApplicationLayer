@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mediatr.ApplicationLayer.Application\Mediatr.ApplicationLayer.Application.csproj" />
+    <ProjectReference Include="..\Mediatr.ApplicationLayer.Domain\Mediatr.ApplicationLayer.Domain.csproj" />
+    <ProjectReference Include="..\Mediatr.ApplicationLayer.Core\Mediatr.ApplicationLayer.Core.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
